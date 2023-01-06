@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 public class ConsumingRestApplication {
 
-	private static final Logger log = LoggerFactory.getLogger(ConsumingRestApplication.class);
+//	private static final Logger log = LoggerFactory.getLogger(ConsumingRestApplication.class);
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConsumingRestApplication.class, args);

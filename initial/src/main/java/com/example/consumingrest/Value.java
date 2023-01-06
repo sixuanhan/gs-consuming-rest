@@ -11,7 +11,8 @@ public class Value {
     private String name;
 
 
-    public Value() {name = "dandan";}
+    public Value() {}
+
 
     public Long getId() {
         return this.id;
